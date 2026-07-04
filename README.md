@@ -1,2 +1,2 @@
 # Loan-Default-Prediction
-Loan Default Prediction using Logistic Regression and Machine Learning
+Loan Default Prediction using Logistic Regression – Machine Learning Classification Project
